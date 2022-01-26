@@ -1,5 +1,9 @@
 .navbarList{
     color: white;
     padding: 10px;
-    text-decoration: none;
+    text-decoration: none;   
+}
+
+.navbarList:hover{
+    color: cyan !important;
 }
